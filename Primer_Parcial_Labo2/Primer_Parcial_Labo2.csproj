@@ -4,6 +4,8 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Primer_Parcial_Labo2</AssemblyName>
+    <RootNamespace>Primer_Parcial_Labo2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
